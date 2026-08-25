@@ -1,6 +1,6 @@
 # Hi, I'm Timthony Zhang 👋
 
-## Senior Full Stack Software Engineer | Backend & Cloud Architecture | AI Integration
+## HR Manager | Senior Full Stack Software Engineer | Backend & Cloud Architecture | AI Integration
 
 I'm a Senior Full Stack Software Engineer with **10+ years of experience** designing, developing, and scaling high-performance web applications.
 
