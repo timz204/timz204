@@ -1,4 +1,4 @@
-# Hi, I'm Timthony 👋
+# Hi, I'm Yoshimura 👋
 
 ## HR Manager | Senior Full Stack Software Engineer | Backend & Cloud Architecture
 
